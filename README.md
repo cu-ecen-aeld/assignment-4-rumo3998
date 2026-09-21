@@ -8,3 +8,4 @@ It also contains instructions related to modifying your buildroot project to use
 #try to fix
 #try to fix2
 #removed runner cache
+#added ssh key
